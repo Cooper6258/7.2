@@ -6,7 +6,7 @@ public class Acc {
     ArrayList<String> Check_History = new ArrayList<String>();
     ArrayList<String> Credit_History = new ArrayList<String>();
 
-    public void Adds(){
+    public void Adds(){ 
         Check_History.add("+32.13");
         Check_History.add("-51.32");
         Check_History.add("-12.91");
